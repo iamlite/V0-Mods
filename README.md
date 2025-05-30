@@ -16,7 +16,7 @@ The clips are surprisingly strong and hold the panels in place very well. I real
 
 [MakerWorld Listing](https://www.makerworld.com)
 
-![Media/zeroarmor.png](Media/zeroarmor.png)
+<img src="Media/zeroarmor.png" width="600">
 
 ### 2 Locking Stealth Door Handle
 
@@ -25,7 +25,7 @@ Really cool design but i wanted a locking handle.
 
 [MakerWorld Listing](https://www.makerworld.com)
 
-![Media/StealthHandle.gif](Media/StealthHandle.gif)
+<img src="Media/StealthHandle.gif" width="600">
 
 ### 3
 
