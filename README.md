@@ -8,6 +8,10 @@ To access the ready-to-print models (STL/3MF), please visit the exclusive MakerW
 
 ### 1. Zero Armor – Full Body Panel Set for Voron V0.2
 
+A full body panel set based on the ZeroV0Panels mod.
+
+[ZeroV0Panels - GitHub](https://github.com/MakerMylo/ZeroV0Panels/)
+
 ![Media/zeroarmor.png](Media/zeroarmor.png)
 
 ### 2
