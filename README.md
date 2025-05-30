@@ -50,4 +50,10 @@ A redesigned stealth skirt mount for the Knomi V2 Display.
   <img src="Media/Knomi_V2_Stealth_Skirt_Remix.png" width="500" alt="Knomi V2 Mount for the Stealth Skirt mod">
 </p>
 
-###
+### 1515 Clip-In Thermistor Mount
+
+A stylish thermistor mount for the 1515 Extruder.
+
+<p align="center">
+  <img src="Media/Thermistor_Mount.png" width="500" alt="1515 Clip-In Thermistor Mount for the 1515 Extruder">
+</p>
