@@ -20,7 +20,7 @@ The clips are surprisingly strong and hold the panels in place very well. I real
   <img src="Media/zeroarmor.png" width="500" alt="Zero Armor - Full body panel set for Voron V0.2 showing complete printer enclosure">
 </p>
 
-### 2 Locking Stealth Door Handle
+### 2. Locking Stealth Door Handle
 
 This one i remixed based on the [Stealth Door Handle](https://github.com/adooze/ZeroPanels_for_Stock_V0.2/blob/main/README.md) by [@adooze](https://github.com/adooze)
 Really cool design but i wanted a locking handle.
