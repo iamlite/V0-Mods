@@ -65,11 +65,3 @@ An extension for the 1515 Spool Holder so it can still fold in with a larger bac
 <p align="center">
   <img src="Media/SpoolHolder_Extension.png" width="500" alt="1515 Spool Holder Extension for the 1515 Spool Holder">
 </p>
-
-### 1515 Spool Holder Extension
-
-An extension for the 1515 Spool Holder so it can still fold in with a larger back panel.
-
-<p align="center">
-  <img src="Media/Spool_Holder_Extension.png" width="500" alt="1515 Spool Holder Extension for the 1515 Spool Holder">
-</p>
