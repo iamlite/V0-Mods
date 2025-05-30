@@ -16,7 +16,9 @@ The clips are surprisingly strong and hold the panels in place very well. I real
 
 [MakerWorld Listing](https://www.makerworld.com)
 
-<img src="Media/zeroarmor.png" width="600">
+<p align="center">
+  <img src="Media/zeroarmor.png" width="500" alt="Zero Armor - Full body panel set for Voron V0.2 showing complete printer enclosure">
+</p>
 
 ### 2 Locking Stealth Door Handle
 
@@ -25,7 +27,9 @@ Really cool design but i wanted a locking handle.
 
 [MakerWorld Listing](https://www.makerworld.com)
 
-<img src="Media/StealthHandle.gif" width="600">
+<p align="center">
+  <img src="Media/StealthHandle.gif" width="500" alt="Demonstration of the locking stealth door handle mechanism in action">
+</p>
 
 ### 3
 
