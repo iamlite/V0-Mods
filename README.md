@@ -73,3 +73,13 @@ An extension for the 1515 Spool Holder so it can still fold in with a larger bac
 <p align="center">
   <img src="Media/SpoolHolder_Extension.png" width="500" alt="1515 Spool Holder Extension for the 1515 Spool Holder">
 </p>
+
+### BTT U2C Moount & Cable Duct
+
+A mount and cable duct for the BTT U2C. Design stolen from [@Jadecky3D](https://www.printables.com/model/317519-voron-v01-v02-klipper-expander-cable-duct) on Printables.
+
+[Get It here](https://www.makerworld.com)
+
+<p align="center">
+  <img src="Media/U2C_Mount.png" width="500" alt="BTT U2C Mount and Cable Duct for the BTT U2C">
+</p>
