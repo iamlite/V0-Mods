@@ -17,7 +17,7 @@ A full body panel set based on the ZeroV0Panels mod. (Which is based on ZeroPane
 
 The clips are surprisingly strong and hold the panels in place very well. I really liked the original design but wanted full coverage to give it a beefy look, so here it is.
 
-[MakerWorld Listing](https://www.makerworld.com)
+[Get It here](https://www.makerworld.com)
 
 <p align="center">
   <img src="Media/zeroarmor.png" width="500" alt="Zero Armor - Full body panel set for Voron V0.2 showing complete printer enclosure">
@@ -28,7 +28,7 @@ The clips are surprisingly strong and hold the panels in place very well. I real
 This one i remixed based on the [Stealth Door Handle](https://github.com/adooze/ZeroPanels_for_Stock_V0.2/blob/main/README.md) by [@adooze](https://github.com/adooze)
 Really cool design but i wanted a locking handle.
 
-[MakerWorld Listing](https://www.makerworld.com)
+[Get It here](https://www.makerworld.com)
 
 <p align="center">
   <img src="Media/StealthHandle.gif" width="500" alt="Demonstration of the locking stealth door handle mechanism in action">
@@ -38,6 +38,8 @@ Really cool design but i wanted a locking handle.
 
 Wider, bolder and beefier skirts for the Stealth Skirt mod. Redesigned legs, fan grill and back panel to match my Zero Armor.
 
+[Get It here](https://www.makerworld.com)
+
 <p align="center">
   <img src="Media/Armored_Stealth_Skirts.png" width="500" alt="Armored Stealth Skirts for the Stealth Skirt mod">
 </p>
@@ -45,6 +47,8 @@ Wider, bolder and beefier skirts for the Stealth Skirt mod. Redesigned legs, fan
 ### Knomi V2 Mount For Stealth skirts
 
 A redesigned stealth skirt mount for the Knomi V2 Display.
+
+[Get It here](https://www.makerworld.com)
 
 <p align="center">
   <img src="Media/Knomi_V2_Stealth_Skirt_Remix.png" width="500" alt="Knomi V2 Mount for the Stealth Skirt mod">
@@ -54,6 +58,8 @@ A redesigned stealth skirt mount for the Knomi V2 Display.
 
 A stylish thermistor mount for the 1515 Extruder.
 
+[Get It here](https://www.makerworld.com)
+
 <p align="center">
   <img src="Media/Thermistor_Mount.png" width="500" alt="1515 Clip-In Thermistor Mount for the 1515 Extruder">
 </p>
@@ -61,6 +67,8 @@ A stylish thermistor mount for the 1515 Extruder.
 ### 1515 Spool Holder Extension
 
 An extension for the 1515 Spool Holder so it can still fold in with a larger back panel.
+
+[Get It here](https://www.makerworld.com)
 
 <p align="center">
   <img src="Media/SpoolHolder_Extension.png" width="500" alt="1515 Spool Holder Extension for the 1515 Spool Holder">
